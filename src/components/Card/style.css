@@ -1,0 +1,48 @@
+p {
+    margin: 0;
+}
+
+.Card {
+    background: darkslategray;
+    border-radius: 10px;
+}
+
+.Card_img {
+    text-align: center;
+}
+
+.Card_types {
+    display: flex;
+    justify-content: center;
+}
+
+.Card_name {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: xx-large;
+    color: white;
+}
+
+.Card_type {
+    background: red;
+    color: white;
+    border-radius: 5px;
+    margin: 10px 10px 10px 0;
+    padding: 5px 10px;
+    text-transform: capitalize;
+}
+
+.Card_info {
+    margin-left: 10px;
+    color: white;
+    text-transform: capitalize;
+}
+
+.Card_data {
+    padding-bottom: 10px; 
+}
+
+.Card__data .title {
+    font-weight: 700;
+}
