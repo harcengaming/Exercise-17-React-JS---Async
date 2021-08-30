@@ -53,7 +53,23 @@
   display: flex;
   justify-content: center;
   margin: 20px 0;
+}
+
+.btn-center {
   display: flex;
+  justify-content: space-around;
+  margin: 20px -160px;
+  
+}
+
+.btn-style {
+  padding: 10px 40px 10px 40px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 20px;
+  background: red;
+  font-weight: 500;
+  color: azure;
 }
 
 .btn button {

@@ -46,3 +46,7 @@ p {
 .Card__data .title {
     font-weight: 700;
 }
+
+.loading {
+    text-align: center;
+}

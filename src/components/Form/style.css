@@ -1,0 +1,27 @@
+.kotak-masuk {
+    background: darkslategray;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 60px 260px 60px 260px;
+    padding: 60px 0px 60px 0px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    color: azure;
+}
+
+.kotak-btn {
+   background: darkslategray;
+   color: azure;
+   margin-top: 20px;
+   width: 180px;
+}
+
+.akun-sudah {
+    color: azure;
+    text-decoration-line: none;
+    margin-left: 4px;
+    margin-top: 10px;
+}
